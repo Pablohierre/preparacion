@@ -8,7 +8,7 @@
         <html>
             <style>
             table{
-              font-family: 'Krona One', sans-serif; 
+              font-family: Times New Roman;
               background-color:white; 
                 }
             th{font-size:1.15em;
