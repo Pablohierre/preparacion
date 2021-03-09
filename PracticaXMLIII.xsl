@@ -45,14 +45,14 @@
             </head>
             <body>
                 <header>
-                    <h1>Listado de Videojuegos</h1>
-                    <p>by Pablo Hierrezuelo</p>
+                    <h1>GITHUB de Videojuegos</h1>
+                    <p>by Pablo GITHUB Hierrezuelo</p>
                 </header>
                 <br></br>
                 <table class="table table-striped table-hover table-bordered">
                     <thead>
                         <tr>
-                            <th>Nombre</th>
+                            <th>Nameiro</th>
                             <th>Descripcion</th>
                             <th>Anyo</th>
                             <th>Fabricante</th>
